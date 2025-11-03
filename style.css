@@ -1,0 +1,35 @@
+/* ============= common css ================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  vertical-align: middle;
+}
+ol,
+ul {
+  list-style-type: none;
+  /* list-style: none;  //or anyone can use*/
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+p,
+div,
+li,
+span,
+a {
+  margin: 0;
+  padding: 0;
+}
+
+/* ============= common css ================== */
