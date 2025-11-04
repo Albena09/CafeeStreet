@@ -1,3 +1,16 @@
+:root {
+  --primary_background_color: #f6ebda;
+  --secondary_background_color: #e5e5e5;
+  --third_background_color: rgba(255, 255, 255, 0.7);
+  --third_background_color: #ffd28f;
+  --primary_text_color: #2f2105;
+  --secondary_text_color: #ff902b;
+  --third_text_color: #7e7d7a;
+  --btn_text_color: #929292;
+  --btn_background_color: #ffffff;
+
+  --Poppins: "Poppins", sans-serif;
+}
 /* ============= common css ================== */
 * {
   margin: 0;
@@ -27,7 +40,7 @@ p,
 div,
 li,
 span,
-a {
+a html body{
   margin: 0;
   padding: 0;
 }
